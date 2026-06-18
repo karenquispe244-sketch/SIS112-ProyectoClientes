@@ -6,11 +6,10 @@
 ================================================================
 
 CARRERA:
-  Ingeniería de Sistemas
+  Ingeniería
 
 INTEGRANTES:
-  - [Nombre Integrante 1]
-  - [Nombre Integrante 2]
+  - Saul Viza
 
 DOMINIO ELEGIDO:
   Gestión de Clientes — Sistema que permite administrar un
